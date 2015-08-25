@@ -1,0 +1,4 @@
+Implement queue for
++ thread-safe
++ support wake-up on reading-thread, which waits for reading when queue is empty 
++ support wake-up on writing-thread, which waits for writing when queue is full 
