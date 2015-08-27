@@ -1,0 +1,10 @@
+1) how to compile 
+$make 
+
+2) how to test program 
+$./test_on_off
+
+3) to do
++ Check the memory leak
++ Coding for memory management 
++ Support more type of rule (away rule)  
